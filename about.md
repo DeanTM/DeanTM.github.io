@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Dean Rance is a data scientist residing from Cape Town, South Africa.
+Dean Rance is a data scientist residing in Cape Town, South Africa.
 
 He's cool. You should hire him to do cool stuff for you.  
 
