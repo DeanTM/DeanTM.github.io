@@ -8,6 +8,6 @@ Not all the work we do ends up as open source code, online posts and how-tos. [N
 
 If you wish to peek at [my github](https://github.com/DeanTM), you can. If you wish to know about some projects I've worked on, which you won't find there, then this is the place.
 
-If you want to download my CV for print, there's a [copy here]({{site.url}}/downloads/CV.pdf).
+If you want to download my CV for print, there's a [copy here]({{site.url}}/downloads/DeanRanceCV.pdf).
 
 This page, like most of the site, is not yet completed.
