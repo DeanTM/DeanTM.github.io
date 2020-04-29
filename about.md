@@ -8,7 +8,7 @@ Dean Rance is a data scientist residing in Cape Town, South Africa.
 
 He's cool. You should hire him to do cool stuff for you.  
 
-He likes dogs, his girlfriend, and trying to find ways to help people by using data science.  
+He likes dogs, neuroscience, and trying to find ways to help people by using data science.  
 
 He thinks in the third person.  
 
